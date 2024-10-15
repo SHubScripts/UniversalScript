@@ -2670,3 +2670,5 @@ UIS.InputBegan:Connect(function(input)
 end)
    end,
 })
+
+local Label = MainTab:CreateLabel("Discord - https://discord.gg/zwdBxRA5fC")				
